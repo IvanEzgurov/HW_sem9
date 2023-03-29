@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\bin\Debug\net6.0\task_dop.exe
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\bin\Debug\net6.0\task_dop.deps.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\bin\Debug\net6.0\task_dop.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\bin\Debug\net6.0\task_dop.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\bin\Debug\net6.0\task_dop.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\refint\task_dop.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\task_dop.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem9\task_dop\obj\Debug\net6.0\ref\task_dop.dll
